@@ -1,0 +1,19 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 8C4B-31AC
+
+ Directory of C:\Python32\hw stuff\project4
+
+11/14/2012  11:31 PM    <DIR>          .
+11/14/2012  11:31 PM    <DIR>          ..
+11/09/2012  12:32 AM             3,784 buffer.py
+11/14/2012  11:31 PM                 0 director.txt
+11/14/2012  11:26 PM            20,623 scheme.py
+11/07/2012  11:22 PM            10,237 scheme_primitives.py
+11/12/2012  07:48 PM             7,506 scheme_reader.py
+11/07/2012  11:22 PM             2,865 scheme_test.py
+11/07/2012  11:22 PM             3,207 scheme_tokens.py
+11/14/2012  11:22 PM            11,682 tests.scm
+11/07/2012  11:22 PM             3,075 ucb.py
+11/12/2012  07:54 PM    <DIR>          __pycache__
+               9 File(s)         62,979 bytes
+               3 Dir(s)  99,788,713,984 bytes free
